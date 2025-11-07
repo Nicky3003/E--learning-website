@@ -45,7 +45,7 @@ export const mockCourses: Course[] = [
     title: "Web Development",
     description:
       "Learn modern web development with HTML, CSS, JavaScript, and React",
-    instructor: "John Smith",
+    instructor: "Harry",
     duration: "40 hours",
     level: "Beginner",
     enrolled: 1250,
@@ -58,7 +58,7 @@ export const mockCourses: Course[] = [
         title: "HTML Fundamentals",
         description:
           "Learn the basics of HTML structure and semantics",
-        videoUrl: "dQw4w9WgXcQ",
+        videoUrl: "IA8JWGP13dI?si=WFWdwkMG8vSJScsR",
         duration: "2 hours",
       },
       {
@@ -66,14 +66,14 @@ export const mockCourses: Course[] = [
         title: "CSS Styling",
         description:
           "Master CSS for beautiful and responsive designs",
-        videoUrl: "dQw4w9WgXcQ",
+        videoUrl: "ua24185-rcw?si=CldZqvEwb1yPDKpJ",
         duration: "3 hours",
       },
       {
         id: "1-3",
         title: "JavaScript Basics",
         description: "Programming fundamentals with JavaScript",
-        videoUrl: "dQw4w9WgXcQ",
+        videoUrl: "01GNWUuLbYk?si=PsV3ErbbGdE1v5u7",
         duration: "4 hours",
       },
       {
@@ -81,7 +81,7 @@ export const mockCourses: Course[] = [
         title: "React Framework",
         description:
           "Build interactive user interfaces with React",
-        videoUrl: "dQw4w9WgXcQ",
+        videoUrl: "-mJFZp84TIY?si=npj5mHmQp9d68pOn",
         duration: "6 hours",
       },
     ],
@@ -104,7 +104,7 @@ export const mockCourses: Course[] = [
         title: "Arrays & Strings",
         description:
           "Understanding arrays and string manipulation",
-        videoUrl: "dQw4w9WgXcQ",
+        videoUrl: "yRpLlJmRo2w?si=TIPvstEfz_i3v6fY",
         duration: "3 hours",
       },
       {
@@ -112,21 +112,21 @@ export const mockCourses: Course[] = [
         title: "Linked Lists",
         description:
           "Single and double linked list implementations",
-        videoUrl: "dQw4w9WgXcQ",
+        videoUrl: "oAja8-Ulz6o?si=Gxnh7ReRVh-BJU88",
         duration: "4 hours",
       },
       {
         id: "2-3",
         title: "Stacks & Queues",
         description: "LIFO and FIFO data structure concepts",
-        videoUrl: "dQw4w9WgXcQ",
+        videoUrl: "7m1DMYAbdiY?si=1cihChQvgl575P5L",
         duration: "3 hours",
       },
       {
         id: "2-4",
         title: "Trees & Graphs",
         description: "Binary trees, BST, and graph algorithms",
-        videoUrl: "dQw4w9WgXcQ",
+        videoUrl: "-DzowlcaUmE?si=3bnz8t5QblpCBtOt",
         duration: "8 hours",
       },
       {
@@ -134,7 +134,7 @@ export const mockCourses: Course[] = [
         title: "Sorting Algorithms",
         description:
           "Quick sort, merge sort, and other sorting techniques",
-        videoUrl: "dQw4w9WgXcQ",
+        videoUrl: "PkJIc5tBRUE?si=mMocZygAzSs1AYwI",
         duration: "5 hours",
       },
     ],
